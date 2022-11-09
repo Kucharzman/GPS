@@ -9,7 +9,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72e3a70b-6711-46e2-8ea8-ab1e9c8d63cb" name="Changes" comment="pusto" />
+    <list default="true" id="72e3a70b-6711-46e2-8ea8-ab1e9c8d63cb" name="Changes" comment="pusto">
+      <change beforePath="$PROJECT_DIR$/../GPS/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../GPS/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GPS/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../GPS/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
